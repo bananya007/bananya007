@@ -24,9 +24,10 @@ Currently contributing to **Deleg8**, an AI-powered scheduling assistant, where 
 
 ## 🏆 Achievements
 
+- 🏆 LA Hacks 2025 Melissa Data Challenge Winner!  
+- 👥 Elected **Professional Development Chair** for ACM at Illinois Tech  
 - 🔝 Awarded **Outstanding 5/5 rating (2023)** at Oracle — top 5% of the workforce  
 - 🏅 Received **4× Vision Awards** for analytical excellence and resolving production-critical bugs  
-- 👥 Elected **Professional Development Chair** for ACM at Illinois Tech  
 
 ---
 
