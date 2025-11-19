@@ -5,16 +5,21 @@
 
 ## 🧠 About Me
 
-I'm a Data Science graduate student at Illinois Institute of Technology (’26), with 3+ years of experience as a Technical Analyst at Oracle working on large-scale ETL automation, data integration, and production support. I'm passionate about building scalable data infrastructure and applying machine learning to real-world problems — especially in cloud-native and AI-driven environments.
+### About
 
-Currently contributing to **Deleg8**, an AI-powered scheduling assistant, where I work on intent routing, calendar summarization, and apply prompt engineering with Firebase functions and GPT-based models.
+I'm a Master's student in Data Science at Illinois Institute of Technology (graduating May 2026), with 3+ years of experience at Oracle building scalable ETL pipelines and analytics solutions. I recently worked as an Oracle Analytics Intern at Calix, and I enjoy working on data engineering, cloud-native data infrastructure, and analytics dashboards using Python, SQL, and modern data tools.
 
 ---
 
 ## 💼 Work Experience
 
-- 🧠 **Deleg8 (2025–Present)**  
-  Collaborating on an AI-powered scheduling assistant; built key components like the intent router and calendar summary generator, integrating Firebase functions with AI models and applying prompt engineering techniques to generate context-aware, intelligent responses.
+- 💻 **Oracle Analytics Intern, Calix (May 2025 – Aug 2025)**   
+  - Streamlined BI asset governance by cleaning 90+ Oracle Analytics Cloud agents and removing inactive recipients, improving report delivery efficiency.  
+  - Designed and monitored OAC agents for financial and booking reports, helping maintain 100% SLA compliance for Sales and Finance teams.  
+  - Tuned underperforming Oracle ERP SQL reports using SQL Tuning Advisor to improve query performance and reporting speed.
+
+- 🧠 **Deleg8 (2025)**  
+  Collaborated on an AI-powered scheduling assistant; built key components like the intent router and calendar summary generator, integrating Firebase functions with AI models and applying prompt engineering techniques to generate context-aware, intelligent responses.
 
 - 💻 **Oracle (2021–2024)**  
   Boosted data pipeline efficiency by 50% through advanced SQL and PL/SQL optimizations. Automated ETL workflows using star schema, ODI, and SCD, reducing manual effort by 25%. Led production support efforts, resolving 80%+ of high-priority bugs through detailed root cause analysis.
@@ -24,9 +29,11 @@ Currently contributing to **Deleg8**, an AI-powered scheduling assistant, where 
 
 ## 🏆 Achievements
 
-- 🔝 Awarded **Outstanding 5/5 rating (2023)** at Oracle — top 5% of the workforce  
-- 🏅 Received **4× Vision Awards** for analytical excellence and resolving production-critical bugs  
-- 👥 Elected **Professional Development Chair** for ACM at Illinois Tech  
+- 🎓 Teaching Assistant for the course- Big Data Technologies in Fall2025. 
+- 🏆 LA Hacks 2025 Melissa Data Challenge Winner!
+- 👥 Elected Professional Development Chair for ACM at Illinois Tech
+- 🔝 Awarded Outstanding 5/5 rating (2023) at Oracle — top 5% of the workforce
+- 🏅 Received 4× Vision Awards for analytical excellence and resolving production-critical bugs 
 
 ---
 
@@ -46,7 +53,6 @@ Currently contributing to **Deleg8**, an AI-powered scheduling assistant, where 
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazon&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
