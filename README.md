@@ -13,10 +13,8 @@ I'm a Master's student in Data Science at Illinois Institute of Technology (grad
 
 ## 💼 Work Experience
 
-- 💻 **Oracle Analytics Intern, Calix (May 2025 – Aug 2025)**   
-  - Streamlined BI asset governance by cleaning 90+ Oracle Analytics Cloud agents and removing inactive recipients, improving report delivery efficiency.  
-  - Designed and monitored OAC agents for financial and booking reports, helping maintain 100% SLA compliance for Sales and Finance teams.  
-  - Tuned underperforming Oracle ERP SQL reports using SQL Tuning Advisor to improve query performance and reporting speed.
+- 💻 **Oracle Analytics Intern, Calix (May 2025 – Aug 2025)**  
+  Improved reporting reliability and BI governance across Oracle Analytics Cloud by cleaning 90+ agents and removing inactive recipients. Designed and monitored agents for financial and booking reports to support Sales and Finance teams. Tuned slow Oracle ERP SQL reports using SQL Tuning Advisor to boost query performance and reporting speed.
 
 - 🧠 **Deleg8 (2025)**  
   Collaborated on an AI-powered scheduling assistant; built key components like the intent router and calendar summary generator, integrating Firebase functions with AI models and applying prompt engineering techniques to generate context-aware, intelligent responses.
