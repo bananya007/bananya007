@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gayathri Ananya</h1>
-<h3 align="center">MS Data Science ’26 | Illinois Tech | Ex-Oracle | Aspiring Data Engineer with Interests in AI & Scalable ML Systems</h3>
+<h3 align="center">MS Data Science ’26 | Illinois Tech | Ex-Calix | Ex-Oracle | Aspiring Data Engineer with Interests in AI & Scalable ML Systems</h3>
 
 ---
 
