@@ -2,9 +2,11 @@
 
 **Data Engineer | MS Data Science @ Illinois Tech | Ex-Oracle | Ex-Calix**
 
+[Email](mailto:ananyabpgayathri25@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gayathri-ananya-175584174) | [GitHub](https://github.com/bananya007)
+
 I build reliable data pipelines, warehouse models, and analytics-ready datasets for business reporting and decision support. My work focuses on SQL-heavy ETL/ELT, orchestration, data quality checks, reconciliation, pipeline monitoring, and stakeholder-ready analytics across finance, supply chain, and operational domains.
 
-I am currently pursuing my MS in Data Science at Illinois Institute of Technology and bring 3+ years of production data engineering and analytics experience from Oracle, along with Oracle Analytics internship experience at Calix.
+I earned my MS in Data Science from Illinois Institute of Technology in May 2026 and bring 3+ years of production data engineering and analytics experience from Oracle, along with Oracle Analytics internship experience at Calix.
 
 ## What I Build
 
@@ -16,14 +18,35 @@ I am currently pursuing my MS in Data Science at Illinois Institute of Technolog
 
 ## Featured Projects
 
-| Project | What it shows | Stack |
-|---|---|---|
-| [EV Fleet Telemetry Reliability Pipeline](https://github.com/bananya007/EV_Fleet_Telemetry) | Streaming telemetry pipeline that simulates EV sensor events, detects anomalies, stores alerts, and computes reliability metrics for fleet monitoring. | Python, Kafka, Airflow, PostgreSQL/AWS RDS, Docker, SQL |
-| [Airbnb Analytics Pipeline](https://github.com/bananya007/airbnb_analytics) | End-to-end analytics engineering project with incremental dbt models, dimensional marts, and Tableau dashboards for host and pricing insights. | dbt, Snowflake, AWS S3, Tableau, SQL |
-| [HerWay](https://github.com/bananya007/HerWay) | Chicago neighborhood analytics assistant combining crime, 311, and community sentiment data into conversational and API-driven insights. | Python, Flask, Pandas, Azure OpenAI GPT-4o |
-| [WeatherFlow ETL](https://github.com/bananya007/WeatherFlowETL) | Dockerized Airflow pipeline that ingests Open-Meteo API data into PostgreSQL with validation and structured ETL tasks. | Python, Airflow, Docker, PostgreSQL |
-| [University Information Assistant](https://github.com/bananya007/iit-chatbot) | Multi-domain university information assistant with retrieval, reranking, API, and Streamlit components. | Python, Elasticsearch, Streamlit, RAG |
-| [HealthCost Explorer](https://github.com/bananya007/HealthCost-Explorer) | Predictive modeling project analyzing health insurance premium drivers with regression diagnostics, transformations, and model evaluation. | R, Regression Modeling, EDA, Statistics |
+### [EV Fleet Telemetry Reliability Pipeline](https://github.com/bananya007/EV_Fleet_Telemetry)
+
+Streaming telemetry pipeline that simulates EV sensor events, detects anomalies, stores alerts, and computes reliability metrics for fleet monitoring.  
+`Python` `Kafka` `Airflow` `PostgreSQL/AWS RDS` `Docker` `SQL`
+
+### [Airbnb Analytics Pipeline](https://github.com/bananya007/airbnb_analytics)
+
+End-to-end analytics engineering project with incremental dbt models, dimensional marts, and Tableau dashboards for host and pricing insights.  
+`dbt` `Snowflake` `AWS S3` `Tableau` `SQL`
+
+### [HerWay](https://github.com/bananya007/HerWay)
+
+Chicago neighborhood analytics assistant combining crime, 311, and community sentiment data into conversational and API-driven insights.  
+`Python` `Flask` `Pandas` `Azure OpenAI GPT-4o`
+
+### [WeatherFlow ETL](https://github.com/bananya007/WeatherFlowETL)
+
+Dockerized Airflow pipeline that ingests Open-Meteo API data into PostgreSQL with validation and structured ETL tasks.  
+`Python` `Airflow` `Docker` `PostgreSQL`
+
+### [University Information Assistant](https://github.com/bananya007/iit-chatbot)
+
+Multi-domain university information assistant with retrieval, reranking, API, and Streamlit components.  
+`Python` `Elasticsearch` `Streamlit` `RAG`
+
+### [HealthCost Explorer](https://github.com/bananya007/HealthCost-Explorer)
+
+Predictive modeling project analyzing health insurance premium drivers with regression diagnostics, transformations, and model evaluation.  
+`R` `Regression Modeling` `EDA` `Statistics`
 
 ## Technical Toolkit
 
