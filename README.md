@@ -27,10 +27,13 @@ I am currently pursuing my MS in Data Science at Illinois Institute of Technolog
 
 ## Technical Toolkit
 
-**Programming and querying:** SQL, Oracle SQL, PL/SQL, Python, PySpark, Spark SQL, R, Pandas, NumPy  
-**Data engineering and cloud:** ETL/ELT, Apache Airflow, dbt, Snowflake, Databricks, Delta Lake, PostgreSQL, MySQL, Docker, AWS S3, AWS Glue, Athena, RDS, Redshift  
-**Data architecture and quality:** data warehousing, dimensional modeling, Kimball modeling, star schema, fact and dimension tables, SCD Type 2, partitioning, incremental loading, data validation, reconciliation, lineage  
-**Analytics, AI, and delivery:** Tableau, Oracle Analytics Cloud, dashboards, KPI reporting, Git, CI/CD, Agile, JIRA, Linux, documentation, Elasticsearch, RAG, GPT-4o, Claude Code, prompt engineering, AI output validation
+| Focus area | Tools and methods |
+|---|---|
+| **Programming and querying** | `SQL` `Oracle SQL` `PL/SQL` `Python` `PySpark` `Spark SQL` `R` `Pandas` `NumPy` |
+| **Pipelines and orchestration** | `ETL/ELT` `Apache Airflow` `dbt` `Docker` `Git` `CI/CD` `Linux` |
+| **Warehousing and cloud** | `Snowflake` `Databricks` `Delta Lake` `PostgreSQL` `MySQL` `AWS S3` `AWS Glue` `Athena` `RDS` `Redshift` |
+| **Modeling and data quality** | `Dimensional modeling` `Kimball` `Star schema` `Fact/dimension tables` `SCD Type 2` `Incremental loading` `Validation` `Reconciliation` `Lineage` |
+| **Analytics and AI delivery** | `Tableau` `Oracle Analytics Cloud` `KPI reporting` `Elasticsearch` `RAG` `GPT-4o` `Claude Code` `AI output validation` |
 
 ## Experience Highlights
 
